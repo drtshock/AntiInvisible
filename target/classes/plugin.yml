@@ -1,0 +1,8 @@
+name: AntiInvisible
+main: net.drtshock.antiinvisibility.AntiInvisibility
+version: 1.0
+
+permissions:
+  nopot.bypass:
+    description: Be able to use invisibility potions.
+    default: false
